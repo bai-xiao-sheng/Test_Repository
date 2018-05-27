@@ -1,4 +1,4 @@
-package com.test;
+package com.shipin;
 
 /**
  * @ClassName: Test
@@ -6,7 +6,7 @@ package com.test;
  * @author: bai-xiao-sheng
  * @Date: 2018年4月15日 下午8:52:20
  */
-public class Test {
+public class Test_jcsj {
 
 	public static void main(String[] args) {
 		// byte
